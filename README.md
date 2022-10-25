@@ -10,7 +10,7 @@ All you have to do is enter your huggingface token only once and you're all set,
 
 <center><b>	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;AUTOMATIC1111 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HLKY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Relaxed mode <br> 
 <a href="https://colab.research.google.com/github/mhnoni/fast-stable-diffusion-old/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb"> 
-<img src='https://github/mhnoni/fast-stable-diffusion-old/raw/main/Dreambooth/1.jpg'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://github.com/mhnoni/fast-stable-diffusion-old/raw/main/Dreambooth/1.jpg'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://colab.research.google.com/github/mhnoni/fast-stable-diffusion-old/blob/main/fast_stable_diffusion_hlky.ipynb">  <img src='https://github.com/TheLastBen/fast-stable-diffusion/raw/main/Dreambooth/2.jpg'> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_relaxed.ipynb"> 
  <img src='https://github.com/github/mhnoni/fast-stable-diffusion-old/raw/main/Dreambooth/3.jpg'></a></b>
 
@@ -24,4 +24,4 @@ Train your model using this easy simple and fast colab, all you have to do is en
 
 <b>	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;&nbsp;	&nbsp;	&nbsp;&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;&nbsp;	&nbsp;	&nbsp;&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;&nbsp;	&nbsp;	&nbsp;&nbsp;	&nbsp;	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DreamBooth<br> 
 <p align="center"><a href="https://colab.research.google.com/github/mhnoni/fast-stable-diffusion-old/blob/main/fast-DreamBooth.ipynb"> 
-<img src='https://github/mhnoni/fast-stable-diffusion-old/raw/main/Dreambooth/4.jpg'></a> </p>
+<img src='https://github.com/mhnoni/fast-stable-diffusion-old/raw/main/Dreambooth/4.jpg'></a> </p>
